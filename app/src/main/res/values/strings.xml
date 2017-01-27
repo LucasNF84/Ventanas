@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">wiikGo</string>
+
+
+    <string name="titulo_crear_usuario">Registro de usuario</string>
+    <string name="hint_nombre_usuario">Ingrese Nombre</string>
+    <string name="hint_apelligo_usuario">Ingrese Apellido</string>
+    <string name="hint_email_usuario">Ingrese Email</string>
+    <string name="hint_clave_usuario">Ingrese Clave</string>
+    <string name="hint_clave2_usuario">Vuelva a escribir Clave</string>
+
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_cancelar">Cancelar</string>
+
+    <string name="cb_aceptar">Acepto terminos y condiciones</string>
+    <string name="title_activity_main_consumir_rest2">MainConsumirRest2Activity</string>
+
+</resources>
